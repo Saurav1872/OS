@@ -1,0 +1,4 @@
+ls
+date
+cal -y
+echo "This is my final script"

@@ -1,0 +1,49 @@
+Operators in Shell:
+
+1. Arithemetic Operators
+    +   Addition
+    -   Subtraction
+    *   Multiplication
+    /   Division
+    %   Modulus
+    =   Assignment
+    ==  Equaltiy 
+    !=  Not Equaltiy
+
+2. Relational Operators
+    -eq     ==
+    -ne     !=
+    -gt     >
+    -lt     <
+    -ge     >=
+    -le     <=
+
+3. Boolean Operators
+    !   boolean
+    -o  OR
+    -a  AND
+
+4. String Operators
+    =   Equal
+    !=  Not Equal
+    -z  if string is of 0 length
+    -n  if string size is non zero
+    str checks if string is non empty   [$a]
+
+
+5. File test Operators
+    -b file     if file is block special file
+    -c file     if character special file
+    -d file     if file is a directory
+    -f file     if file is an oridnary file to a directory or special
+    -g file     
+    -k file     
+    -p file     
+    -t file     
+    -u file     
+    -r file     
+    -w file     
+    -x file     
+    -s file     
+    -e file     
+
